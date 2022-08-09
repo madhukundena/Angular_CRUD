@@ -9,3 +9,6 @@
 ![alt text](https://github.com/madhukundena/Angular_CRUD/blob/master/images/Screenshot%20(253).png)
 ![alt text](https://github.com/madhukundena/Angular_CRUD/blob/master/images/Screenshot%20(254).png)
 ![alt text](https://github.com/madhukundena/Angular_CRUD/blob/master/images/Screenshot%20(255).png)
+![alt text](https://github.com/madhukundena/Angular_CRUD/blob/master/images/Screenshot%20(256).png)
+![alt text](https://github.com/madhukundena/Angular_CRUD/blob/master/images/Screenshot%20(257).png)
+![alt text](https://github.com/madhukundena/Angular_CRUD/blob/master/images/Screenshot%20(258).png)
